@@ -1,0 +1,38 @@
+.container {
+  margin: 200px auto;
+  width: 700px;
+}
+
+.calc {
+  text-align: center;
+}
+
+.display {
+  margin: 8px auto;
+}
+
+input {
+  margin: 0 auto;
+  display: block;
+  width: 80%;
+  background-color: black;
+  color: white;
+  text-align: right;
+  height: 40px;
+  font-size: 36px;
+  padding: 10px;
+}
+
+button {
+  width: 20%;
+  justify-content: space-evenly;
+  height: 45px;
+  font-size: 30px;
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+
+.box .end {
+  width: 41%;
+  justify-content: space-evenly;
+}
